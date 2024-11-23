@@ -1,0 +1,6 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <path d="M80,20 L120,20 L130,40 L130,170 C130,180 70,180 70,170 L70,40 Z" fill="#2c3e50"/>
+    <rect x="75" y="60" width="50" height="70" fill="#e74c3c" rx="5"/>
+    <text x="80" y="100" font-family="Arial" font-size="14" fill="white">COLA</text>
+    <path d="M70,40 C70,30 130,30 130,40" fill="#34495e"/>
+</svg>
